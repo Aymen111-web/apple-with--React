@@ -6,6 +6,7 @@ import Ssec from './component/second heiglight/Ssec'
 import Third from './component/third/Third'
 import Fourth from './component/fourth/Fourth'
 import Fifth from './component/Fifth/Fifth'
+import Sixth from './component/sixth/Sixth'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Third/>
       <Fourth/>
       <Fifth/>
+      <Sixth/>
       <Footer/>
     </div>
   );
