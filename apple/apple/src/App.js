@@ -5,7 +5,7 @@ import Mainu from './component/main/mainu'
 import Ssec from './component/second heiglight/Ssec'
 import Third from './component/third/Third'
 import Fourth from './component/fourth/Fourth'
-
+import Fifth from './component/Fifth/Fifth'
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
       <Ssec/>
       <Third/>
       <Fourth/>
+      <Fifth/>
       <Footer/>
     </div>
   );
